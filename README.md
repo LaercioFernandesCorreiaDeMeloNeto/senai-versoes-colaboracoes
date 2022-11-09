@@ -2,3 +2,6 @@
 Repositório do curso de Programador Back-End do Senai.
 
 Fazendo uma alteração no README
+
+Lembrei do comando: git status
+Lembrei do comando: git commit
